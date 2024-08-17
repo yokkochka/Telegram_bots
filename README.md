@@ -17,6 +17,20 @@ This repository contains various Telegram bot projects demonstrating different f
 - **Handlers example 1**: Demonstrates basic handlers setup.
 - **Handlers example 2**: Demonstrates advanced handlers setup.
 
+## Finished projects
+
+### `project_with_telegram_bots` directory
+
+This directory contains four additional Telegram bot projects:
+
+- **bot_EGE**: A bot designed to help users prepare for EGE (Unified State Exam in Russia). It provides educational content, quizzes, and resources to assist with exam preparation. Tools used include `python-telegram-bot` for bot interactions and content management.
+
+- **Bot_with_ConversationHandler**: This bot serves as an interview assistant, guiding users through a sequence of questions and collecting their responses to create a personal profile. It uses `ConversationHandler` from the `python-telegram-bot` library to manage the conversation flow.
+
+- **LiteBot_with_jokes**: A lightweight, fun bot that tells jokes and rolls a dice, returning a random number between 1 and 6. It utilizes basic bot functionalities and randomization features provided by Python's `random` module.
+
+- **School_assistant**: A bot designed to assist students by providing their schedule and allowing them to leave notes on a virtual board. The bot uses file handling to manage schedules and a text-based system to store and display user notes.
+
 ## How to Run
 
 1. **Clone the Repository**:
