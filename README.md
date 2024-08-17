@@ -31,32 +31,31 @@ This directory contains four additional Telegram bot projects:
 
 - **School_assistant**: A bot designed to assist students by providing their schedule and allowing them to leave notes on a virtual board. The bot uses file handling to manage schedules and a text-based system to store and display user notes.
 
-## How to Run
+## How to run
 
-1. **Clone the Repository**:
+1. **Clone the repository**:
     ```bash
     git clone https://github.com/account_username/repository_name.git
     ```
 
-2. **Navigate to the Project Directory**:
+2. **Navigate to the project directory**:
     ```bash
     cd repository_name
     ```
 
-3. **Ensure Required Modules Are Installed**:
+3. **Ensure required modules are installed**:
     Before running scripts that use external libraries, ensure the necessary Python modules are installed:
     ```bash
     pip install python-telegram-bot pillow
     ```
 
-4. **Run the Script**:
+4. **Run the script**:
     Open the appropriate `.py` file in a text editor or IDE, then run it with Python. For example:
     ```bash
     python3 name_file.py
     ```
 
 ## Technologies
-
 - **Python**: The primary programming language for all tasks.
 - **Python-telegram-bot**: For interacting with the Telegram Bot API.
 - **Pillow**: For image processing tasks.
